@@ -1,7 +1,15 @@
 📦 Dockerized WordPress Project
+
+
 👤 Identitas
+
+
 Nama : Ivan Hermansyah
+
+
 NIM : A11.2023.14952
+
+
 📌 1. Deskripsi Project
 
 Project ini merupakan implementasi WordPress menggunakan Docker Compose dengan beberapa layanan utama:
@@ -31,6 +39,7 @@ docker ps
 Buka browser dan akses:
 
 http://localhost:8000
+
 📸 3. Screenshot Hasil
 
 Berikut dokumentasi hasil implementasi:
